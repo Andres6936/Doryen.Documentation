@@ -1,4 +1,0 @@
-[submodule "Web"]
-	path = Web
-	url = https://github.com/Andres6936/Doryen.Web.git
-	branch = master
